@@ -26,6 +26,8 @@ Butter 也可以通过 CDN 加载：
 
 ## 快速开始
 
+如果您想要一个完整的示例项目，请查看我们在[Github](https://github.com/ButterCMS/buttercms-vue-tutorial)上的[Vue.js](https://github.com/ButterCMS/buttercms-vue-tutorial)项目。
+
 设置你的 API token：
 
 ```javascript
